@@ -1,0 +1,17 @@
+C:\Programming Projects\Ping pong - Piece 2\Ping Pong Game Project 2\Ping Pong Game Project 2\bin\Debug\net8.0-windows\Ping Pong Game Project 2.exe
+C:\Programming Projects\Ping pong - Piece 2\Ping Pong Game Project 2\Ping Pong Game Project 2\bin\Debug\net8.0-windows\Ping Pong Game Project 2.deps.json
+C:\Programming Projects\Ping pong - Piece 2\Ping Pong Game Project 2\Ping Pong Game Project 2\bin\Debug\net8.0-windows\Ping Pong Game Project 2.runtimeconfig.json
+C:\Programming Projects\Ping pong - Piece 2\Ping Pong Game Project 2\Ping Pong Game Project 2\bin\Debug\net8.0-windows\Ping Pong Game Project 2.dll
+C:\Programming Projects\Ping pong - Piece 2\Ping Pong Game Project 2\Ping Pong Game Project 2\bin\Debug\net8.0-windows\Ping Pong Game Project 2.pdb
+C:\Programming Projects\Ping pong - Piece 2\Ping Pong Game Project 2\Ping Pong Game Project 2\obj\Debug\net8.0-windows\Ping_Pong_Game_Project_2.Player.resources
+C:\Programming Projects\Ping pong - Piece 2\Ping Pong Game Project 2\Ping Pong Game Project 2\obj\Debug\net8.0-windows\Ping_Pong_Game_Project_2.Properties.Resources.resources
+C:\Programming Projects\Ping pong - Piece 2\Ping Pong Game Project 2\Ping Pong Game Project 2\obj\Debug\net8.0-windows\Ping Pong Game Project 2.csproj.GenerateResource.cache
+C:\Programming Projects\Ping pong - Piece 2\Ping Pong Game Project 2\Ping Pong Game Project 2\obj\Debug\net8.0-windows\Ping Pong Game Project 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming Projects\Ping pong - Piece 2\Ping Pong Game Project 2\Ping Pong Game Project 2\obj\Debug\net8.0-windows\Ping Pong Game Project 2.AssemblyInfoInputs.cache
+C:\Programming Projects\Ping pong - Piece 2\Ping Pong Game Project 2\Ping Pong Game Project 2\obj\Debug\net8.0-windows\Ping Pong Game Project 2.AssemblyInfo.cs
+C:\Programming Projects\Ping pong - Piece 2\Ping Pong Game Project 2\Ping Pong Game Project 2\obj\Debug\net8.0-windows\Ping Pong Game Project 2.csproj.CoreCompileInputs.cache
+C:\Programming Projects\Ping pong - Piece 2\Ping Pong Game Project 2\Ping Pong Game Project 2\obj\Debug\net8.0-windows\Ping Pong Game Project 2.dll
+C:\Programming Projects\Ping pong - Piece 2\Ping Pong Game Project 2\Ping Pong Game Project 2\obj\Debug\net8.0-windows\refint\Ping Pong Game Project 2.dll
+C:\Programming Projects\Ping pong - Piece 2\Ping Pong Game Project 2\Ping Pong Game Project 2\obj\Debug\net8.0-windows\Ping Pong Game Project 2.pdb
+C:\Programming Projects\Ping pong - Piece 2\Ping Pong Game Project 2\Ping Pong Game Project 2\obj\Debug\net8.0-windows\Ping Pong Game Project 2.genruntimeconfig.cache
+C:\Programming Projects\Ping pong - Piece 2\Ping Pong Game Project 2\Ping Pong Game Project 2\obj\Debug\net8.0-windows\ref\Ping Pong Game Project 2.dll
